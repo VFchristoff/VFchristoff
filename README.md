@@ -24,7 +24,7 @@ Education:
 I have a degree in Game Design and Digital Entertainment.
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=VFchristoff)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VFchristoff&layout=compact&theme=vision-friendly-dark)](https://github.com/VFchristoff/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VFchristoff&layout=compact&theme=Minima)](https://github.com/VFchristoff/github-readme-stats)
 
 <div>
   <img src="https://user-images.githubusercontent.com/17773218/56295546-32a81200-60ea-11e9-8761-0b726b20fd51.png" title="C#" alt="C#" width="40" height="40"/>&nbsp;
