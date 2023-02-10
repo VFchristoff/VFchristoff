@@ -9,4 +9,4 @@ Several Game Jams
 Education:
 I have a degree in Game Design and Digital Entertainment.
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VFchristoff&hide=javascript,c#,css,scss,html&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VFchristoff&theme=tokyonight)
