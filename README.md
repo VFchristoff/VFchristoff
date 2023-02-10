@@ -24,7 +24,7 @@ Education:
 I have a degree in Game Design and Digital Entertainment.
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=VFchristoff)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?VFchristoff&layout=compact&theme=vision-friendly-dark)](https://github.com/VFchristoff/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VFchristoff&layout=compact&theme=vision-friendly-dark)](https://github.com/VFchristoff/github-readme-stats)
 
 <div>
   <img src="https://user-images.githubusercontent.com/17773218/56295546-32a81200-60ea-11e9-8761-0b726b20fd51.png" title="C#" alt="C#" width="40" height="40"/>&nbsp;
@@ -37,8 +37,4 @@ I have a degree in Game Design and Digital Entertainment.
 <div id="links">
   <a href="https://www.linkedin.com/in/vnsoff/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-    <a href="https://www.artstation.com/vnsoff">
-    <img src="https://seeklogo.com/images/A/artstation-logo-5765B1C358-seeklogo.com.png" alt="Artstation Badge"/>
-  </a>
 </div>
