@@ -9,10 +9,10 @@
   <li> I'm currently working in the IT field, but I have past experiences as a Game Tester and a 2D artist for game development. </li>
   <li> I also have a degree in Game Design and Digital Entertainment. </li>
   </div>
-  <div align=center>
-  <h2> My Github Stats: <h2>
-  </div>
-  <table align="center">
+
+---------------------------------------------------------------------------------------------------------------------
+
+<table align="center">
   <tr>
   <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=VFchristoff&show_icons=true&theme=dark&locale=en&layout=compact" alt="gma950" /></td>
   <td><img src="https://github-readme-stats.vercel.app/api?username=VFchristoff&show_icons=true&theme=dark&locale=en" alt="gma950" /></td>
