@@ -6,7 +6,7 @@
   </div>
   <div align=left>
   <li> I’m currently learning Front-End Web Development and game development through Unity 3D using C#.
-  <li> I'm currently working in the IT field, but I have past experiences as a C# Developer, a Game Tester and a 2D artist for game development. </li>
+  <li> I'm currently working in the IT field, but I have past experiences as a Game Tester and a 2D artist for game development. </li>
   <li> I also have a degree in Game Design and Digital Entertainment. </li>
   </div>
   <div align=center>
