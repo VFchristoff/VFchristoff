@@ -1,5 +1,5 @@
   <div align=center>
-      <img src="https://doodleipsum.com/700x394/avatar-4?i=5be37c301cf68f37abb4fa3eb1bb55dd" alt="photo" height="100">
+      <img src="https://cdna.artstation.com/p/assets/images/images/050/608/294/large/vanessa-christoff-bau-w3.jpg?1655245698" alt="photo" height="150">
   </div>
   <div align=center>
   <p> Hey, I'm Vanessa, </p>
