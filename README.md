@@ -10,7 +10,7 @@
   <li> I also have a degree in Game Design and Digital Entertainment. </li>
   </div>
 
----------------------------------------------------------------------------------------------------------------------
+<hr>
 
 <table align="center">
   <tr>
