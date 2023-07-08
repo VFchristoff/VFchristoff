@@ -6,7 +6,7 @@
   <p> Hey, I'm Vanessa, </p>
   </div>
   <div align=left>
-  <li> 🚀 I’m currently learning Fullstack Development (Php, SQL, Mysql and Javascript).
+  <li> 🚀 I’m currently learning Fullstack Development for web development (Php, SQL, Mysql and Javascript).
   <li> 💻 I'm currently working as a Fullstack Developer in a company, and I have past experience in the IT field. </li>
   <li> 🌐 Other technologies I'm familiar and work with: Git, Code Igniter 4, React, Postman, Bootstrap and Laragon. </li>
   <li> 🌌 I'm passionate about developing projects that matter. </li>
