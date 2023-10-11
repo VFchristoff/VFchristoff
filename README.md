@@ -15,9 +15,9 @@
 <br>
 <br>
 <table align="center">
-  <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vnsoff&show_icons=true&theme=dark&locale=en&layout=compact" alt="gma950" height="150"/></td>
-  <td><img src="https://github-readme-stats.vercel.app/api?username=vnsoff&show_icons=true&theme=dark&locale=en" alt="gma950" height="150"/></td>
-  <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=vnsoff&theme=dark" alt="gma950" height="150" /></td>
+  <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vnsoff&show_icons=true&theme=dracula&locale=en&layout=compact" alt="gma950" height="150"/></td>
+  <td><img src="https://github-readme-stats.vercel.app/api?username=vnsoff&show_icons=true&theme=dracula&locale=en" alt="gma950" height="150"/></td>
+  <td><img src="https://github-readme-streak-stats.herokuapp.com?user=vnsoff&theme=dracula&hide_border=false" alt="gma950" height="150" /></td>
 </table>
 <br>
   <h4 align="center">Languages:</h4>
