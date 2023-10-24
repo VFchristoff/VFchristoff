@@ -6,9 +6,9 @@
   <p> Hey, I'm Vanessa, </p>
   </div>
   <div align=left>
-  <li> 🚀 I’m currently learning Fullstack Development for web development (PHP, Javascript and SQL databases).
-  <li> 💻 I'm currently working as a Fullstack Developer in a company, and I have past experience in the IT field. </li>
-  <li> 🌐 Other technologies I'm familiar and work with: Git, Code Igniter 4, React, Tailwind CSS, Bootstrap and Laragon. </li>
+  <li> 🚀 I’m currently learning full stack web development (PHP, Javascript and SQL databases).
+  <li> 💻 I'm currently working as a Software Engineer for full stack web development in a company, and I have past experience in the IT field. </li>
+  <li> 🌐 Other technologies I'm familiar and work with: Git, Code Igniter 4, React.js, Tailwind CSS, Bootstrap and Laragon. </li>
   <li> 💼 I'm only seeking freelance projects, as I'm a fulltime developer. </li>
   </div>
 <br>
