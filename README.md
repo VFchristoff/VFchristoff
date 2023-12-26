@@ -5,7 +5,6 @@
 🚀 Full-stack web developer with expertise in PHP, JavaScript, and SQL.
   
 💻 Software Engineer at a security company, specializing in full-stack web system development.
-
 </div>
 
 <h3 align="left">Stack:</h3>
@@ -33,7 +32,9 @@
 
 <h3 align="left">Contact:</h3>
 <div align=left>
-<a href="https://www.linkedin.com/in/vnsoff/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/vnsoff/"><img src="https://img.shields.io/badge/Linkedin-282A36?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+<a href="vanfc.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-282A36?style=flat&logo=gmail" alt="gmail" /></a>
+
 </div>
 <br>
 <table>
