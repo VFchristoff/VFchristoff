@@ -1,5 +1,5 @@
 
-<p> Hey, I'm Vanessa, </p>
+<h3> Hey, I'm Vanessa, </h3>
 </div>
 <div align=left>
 🚀 Full-stack web developer with expertise in PHP, JavaScript, and SQL.
@@ -8,7 +8,7 @@
 
 </div>
 
-<h4 align="left">Stack:</h3>
+<h3 align="left">Stack:</h3>
 <div align=left>
 
 ![PHP](https://img.shields.io/badge/-PHP-282A36?style=flat&logo=php)
@@ -19,7 +19,7 @@
 ![html5](https://img.shields.io/badge/-HTML-282A36?style=flat&logo=html5)
 </div>
 
-<h4 align="left">Other Skills:</h3>
+<h3 align="left">Other Skills:</h3>
 <div align=left>
   
 ![git](https://img.shields.io/badge/-Git-282A36?style=flat&logo=git)
@@ -31,7 +31,7 @@
 ![bootstrap](https://img.shields.io/badge/-Bootstrap-282A36?style=flat&logo=bootstrap)
 </div>
 
-<h4 align="left">Contact:</h3>
+<h3 align="left">Contact:</h3>
 <div align=left>
 <a href="https://www.linkedin.com/in/vnsoff/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
 </div>
