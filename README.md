@@ -14,20 +14,20 @@
 ![codeigniter](https://img.shields.io/badge/-CodeIgniter-282A36?style=flat&logo=codeigniter)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-282A36?style=flat&logo=javascript)
 ![jquery](https://img.shields.io/badge/-JQuery-282A36?style=flat&logo=jquery)
-![css3](https://img.shields.io/badge/-CSS-282A36?style=flat&logo=css3)
-![html5](https://img.shields.io/badge/-HTML-282A36?style=flat&logo=html5)
+![laragon](https://img.shields.io/badge/-Laragon-282A36?style=flat&logo=laragon)
+![bootstrap](https://img.shields.io/badge/-Bootstrap-282A36?style=flat&logo=bootstrap)
 </div>
 
 <h3 align="left">Other Skills:</h3>
 <div align=left>
-  
-![git](https://img.shields.io/badge/-Git-282A36?style=flat&logo=git)
-![laragon](https://img.shields.io/badge/-Laragon-282A36?style=flat&logo=laragon)
-![react](https://img.shields.io/badge/-React-282A36?style=flat&logo=react)
+
 ![Tailwind](https://img.shields.io/badge/-TailwindCSS-282A36?style=flat&logo=tailwindcss)
+![xampp](https://img.shields.io/badge/-Xampp-282A36?style=flat&logo=xampp)
+![react](https://img.shields.io/badge/-React-282A36?style=flat&logo=react)
+![nextdotjs](https://img.shields.io/badge/-Next.js-282A36?style=flat&logo=nextdotjs)
 ![C#](https://img.shields.io/badge/-CSharp-282A36?style=flat&logo=csharp)
+![python](https://img.shields.io/badge/-Python-282A36?style=flat&logo=python)
 ![unity](https://img.shields.io/badge/-Unity-282A36?style=flat&logo=unity)
-![bootstrap](https://img.shields.io/badge/-Bootstrap-282A36?style=flat&logo=bootstrap)
 </div>
 
 <h3 align="left">Contact:</h3>
