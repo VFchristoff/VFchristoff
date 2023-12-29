@@ -14,6 +14,7 @@
 ![codeigniter](https://img.shields.io/badge/-CodeIgniter-282A36?style=flat&logo=codeigniter)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-282A36?style=flat&logo=javascript)
 ![jquery](https://img.shields.io/badge/-JQuery-282A36?style=flat&logo=jquery)
+![mysql](https://img.shields.io/badge/-Mysql-282A36?style=flat&logo=mysql)
 ![laragon](https://img.shields.io/badge/-Laragon-282A36?style=flat&logo=laragon)
 ![bootstrap](https://img.shields.io/badge/-Bootstrap-282A36?style=flat&logo=bootstrap)
 </div>
