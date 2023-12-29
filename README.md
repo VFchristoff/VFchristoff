@@ -34,7 +34,8 @@
 <h3 align="left">Contact:</h3>
 <div align=left>
 <a href="https://www.linkedin.com/in/vnsoff/"><img src="https://img.shields.io/badge/Linkedin-282A36?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-<a href="mailto:vanfc.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-282A36?style=flat&logo=gmail" alt="gmail" /></a>
+<br>
+  gmail: vanfc.dev@gmail.com
   
 </div>
 <br>
