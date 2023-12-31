@@ -35,7 +35,7 @@
 <div align=left>
 <a href="https://www.linkedin.com/in/vnsoff/"><img src="https://img.shields.io/badge/Linkedin-282A36?style=flat&logo=linkedin" alt="LinkedIn" /></a>
 <br>
-  gmail: vanfc.dev@gmail.com
+  Gmail address: vanfc.dev@gmail.com
   
 </div>
 <br>
